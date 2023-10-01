@@ -1,5 +1,9 @@
 ## 📖 Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection (IEEE GRSL 2023)
 
+[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)](https://arxiv.org/abs/2309.12010)
+[![IEEE](https://img.shields.io/badge/Paper-IEEE%20GRSL-blue)](https://ieeexplore.ieee.org/document/10262014)
+
+
 This code is for our paper "Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection".
 
 🔥 We hope CAMixer is helpful for your work. Thanks a lot for your attention.🔥
